@@ -12,7 +12,7 @@
 #### A little more about me
 ```javascript
 const aman = {
-  education: ["Masters in Business Administration - Global Business","Bachelor of Technology in Computer Science & Engineering"]
+  education: ["Masters in Business Administration - Global Business","Bachelor of Technology in Computer Science & Engineering"],
   major_subject: ["Image Processing", "NLP", "Finance", "International Business"],
   }
 ```
