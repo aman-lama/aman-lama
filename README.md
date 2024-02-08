@@ -69,7 +69,6 @@ const aman = {
 
 <div style="display:flex; width:100%; justify-items:space-between;">
   <img src="https://github.com/aman-lama/aman-lama/assets/97221971/4228ef52-8b6e-4e26-a035-2e0add54cf11" alt="random" style="height:200px; width:300px; image-resolution:200dpi; " />
-  <img src="https://github.com/aman-lama/aman-lama/assets/97221971/fa73ad5d-38fd-4b44-8171-51ac72036dcb" alt="random" style="height:200px; width:300px; image-resolution:100dpi;" />
   <img src="https://github.com/aman-lama/aman-lama/assets/97221971/23a3670e-af14-433d-82c5-65a85d164e06" alt="random" style="height:200px; width:300px; image-resolution:200dpi;" />
 </div>
 <a href="https://amanlama.vercel.app/AstheticWalls" target="_blank" className="text-decorations:none">Visit Asthetic Walls</a>
@@ -91,8 +90,7 @@ Linux Ubuntu             4 hrs 2 mins      ████████████�
 Windows                  10 hrs 20 mins    █████████████████████░░░░░░░  70.00%
 ```
 ------
-------
-Credit: [Aman Lama](https://amanlama.com.np)
+Personal Website: [Aman Lama](https://amanlama.com.np)
 </main>
 
 
